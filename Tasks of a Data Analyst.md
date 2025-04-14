@@ -1,8 +1,6 @@
 # Tasks of a Data Analyst
 
 ## Completed
-**100 XP**  
-**10 minutes**
 
 A data analyst is one of several critical roles in an organization, who help uncover and make sense of information to keep the company balanced and operating efficiently. Therefore, it's vital that a data analyst clearly understands their responsibilities and the tasks that are performed on a near-daily basis. Data analysts are essential in helping organizations gain valuable insights into the expanse of data that they have, and they work closely with others in the organization to help reveal valuable information.
 
@@ -196,3 +194,9 @@ Data analysts play a critical role in helping organizations uncover valuable ins
   - Reduces effort duplication
   - Ensures data security
   - Maintains trust through certification
+  
+### Summary
+
+In this module, you learned that the role of data analyst is vital to the success of an organization. Additionally, the tasks that data analysts 
+perform help ensure that the business decisions are based on trusted data. You also learned about the different roles in data and how the 
+people in these roles work closely with a data analyst to deliver valuable insights into a business's data assets.
