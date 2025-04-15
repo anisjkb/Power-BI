@@ -29,7 +29,6 @@
 
 Here’s an expanded **100-question PL-300 exam prep guide** covering all domains with scenario-based questions, DAX challenges, and performance optimization—formatted as a `.md` file for easy study:
 
-```markdown
 # PL-300 Power BI Data Analyst Exam: 100 Practice Questions
 
 ## **Domain 1: Prepare the Data (20 Questions)**
@@ -189,7 +188,6 @@ Here’s an expanded **100-question PL-300 exam prep guide** covering all domain
 3. **Exam Strategy**:  
    - Flag scenario questions for review  
    - Manage time (avg. 1.5 min/question)  
-```
 
 ### **Why This Works for PL-300:**
 1. **Full Coverage**:  
