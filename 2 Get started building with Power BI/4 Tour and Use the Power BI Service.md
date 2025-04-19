@@ -11,7 +11,7 @@ Now that you understand how to create a report, let's explore the **Power BI ser
 - By default, every user has access to **My workspace**, which is ideal only for testing.
 - When you want to share content with others, always create and use a **shared workspace**.
 
-![Power BI Overview](images/pbi-touring_01)
+![Power BI Overview](images/pbi-touring_01.png)
 
 ---
 
@@ -21,7 +21,7 @@ If you haven't created a report yet, Power BI offers several **sample reports** 
 
 You can access sample reports in the **Learn** section of the navigation pane.
 
-![Power BI Overview](images/pbi-touring_02)
+![Power BI Overview](images/pbi-touring_02.png)
 
 ---
 
@@ -37,7 +37,7 @@ In a workspace, you can create an **app**, which provides consumers with a simpl
 ⚠️ **Important:**  
 After making any changes to items in the workspace, you **must update the app** to reflect those changes to users. This allows you to control what version of content is visible to your audience.
 
-![Power BI Overview](images/pbi-touring_03)
+![Power BI Overview](images/pbi-touring_03.png)
 
 ### Why use Apps?
 
@@ -53,7 +53,7 @@ Template apps allow you to find an existing app that suits your needs and **conn
 
 These apps are a great way to **quickly share insights** with minimal effort.
 
-![Power BI Overview](images/pbi-touring_04)
+![Power BI Overview](images/pbi-touring_04.png)
 
 ### 🔍 How to Access Template Apps:
 1. Select the **Apps** icon from the left navigation pane.
@@ -62,7 +62,7 @@ These apps are a great way to **quickly share insights** with minimal effort.
 
 > 💡 Tip: In the following screenshot, we've installed the **GitHub template app** and expanded the report to see pages like _Top 100 Contributors_ and _Pull Requests_.
 
-![Power BI Overview](images/pbi-touring_05)
+![Power BI Overview](images/pbi-touring_05.png)
 
 ---
 
@@ -72,7 +72,7 @@ To support your ever-changing data, configure **scheduled refreshes** of your se
 
 You can also perform **on-demand refreshes**.
 
-![Power BI Overview](images/pbi-touring_07)
+![Power BI Overview](images/pbi-touring_06.png)
 
 > 💡 **Tip:**  
 For more information about all refresh schedules, see the [Refresh data documentation](https://learn.microsoft.com/power-bi/connect-data/refresh-data).
