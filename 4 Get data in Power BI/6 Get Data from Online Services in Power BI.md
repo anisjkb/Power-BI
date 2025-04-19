@@ -58,7 +58,7 @@ Once authenticated, the **Navigator** window will appear—just like when connec
 - Click **Load** to directly import the data
 - Click **Transform Data** to open **Power Query Editor** if you want to shape and clean the data before loading
 
-![Data from Online Services](images/64-sharepoint-url-orig-location-ssm.png)
+![Data from Online Services](images/63-sharepoint-url-orig-location-ssm.png)
 
 ---
 
