@@ -1,6 +1,7 @@
 # Building Blocks of Power BI
 
 Power BI enables users to transform data into interactive and meaningful insights. The two fundamental building blocks in Power BI are **semantic models** and **visualizations**. Let's explore how these components work together to create powerful reports and dashboards.
+
 ---
 ## 📘 Create a Semantic Model
 
